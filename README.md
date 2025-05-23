@@ -33,9 +33,7 @@ This repository showcases my progress and key learnings from the Work Readiness 
 ## 3️⃣ Personality Assessment
 
 ### 📌 Evidence
-- [MBTI Report](link)
-- Personality wheel illustration
-- Screenshot of completed online test
+![Personality Test Screenshot](https://github.com/boity0/github_portfolio/blob/main/Personality%20Assessment.png)
 
 ### ✍️ Reflection (STAR)
 **S**ituation: I completed a personality test to better understand myself.  
