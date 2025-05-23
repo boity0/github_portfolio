@@ -65,7 +65,7 @@ This repository showcases my progress and key learnings from the Work Readiness 
 **S**ituation: Final step was to submit the CV.  
 **T**ask: Ensure everything was polished and submitted correctly.  
 **A**ction: I triple-checked formatting, saved the file as PDF, and submitted on time.  
-**R**esult: I received confirmation and positive feedback from my instructor.
+**R**esult: I am waiting confirmation and positive feedback from my instructor.
 
 ---
 
