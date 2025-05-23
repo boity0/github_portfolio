@@ -20,9 +20,7 @@ This repository showcases my progress and key learnings from the Work Readiness 
 ## 2️⃣ Skills and Interests
 
 ### 📌 Evidence
-- [Skills Inventory Worksheet](link)
-- Screenshot from skills assessment tool
-- Group project summary demonstrating skills
+![Skills Assessment Screenshot](https://github.com/boity0/github_portfolio/blob/main/Skills%20and%20Interest.png)
 
 ### ✍️ Reflection (STAR)
 **S**ituation: I was asked to identify my top skills and interests.  
