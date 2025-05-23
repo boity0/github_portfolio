@@ -46,9 +46,7 @@ This repository showcases my progress and key learnings from the Work Readiness 
 ## 4️⃣ Create a CV
 
 ### 📌 Evidence
-- [Download My CV (PDF)](link)
-- Screenshot from CV builder tool
-- List of revisions after feedback
+![CV Pdf](https://github.com/boity0/github_portfolio/blob/main/Boitumelo%E2%80%99s%20final%20CV%20(1).pdf)
 
 ### ✍️ Reflection (STAR)
 **S**ituation: I needed to create a professional CV.  
