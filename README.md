@@ -7,9 +7,7 @@ This repository showcases my progress and key learnings from the Work Readiness 
 ## 1️⃣ Career Counselling
 
 ### 📌 Evidence
-- [Career Counseling Summary PDF](link-to-artifact)
-- Screenshot of completed career assessment
-- Notes from the session
+![Career Counseling Screenshot](https://github.com/boity0/github_portfolio/blob/main/Career%20Counselling.png)
 
 ### ✍️ Reflection (STAR)
 **S**ituation: I participated in a career counseling session to explore my career path.  
