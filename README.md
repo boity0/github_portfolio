@@ -59,8 +59,7 @@ This repository showcases my progress and key learnings from the Work Readiness 
 ## 5️⃣ CV Submission
 
 ### 📌 Evidence
-- Screenshot of submission confirmation
-- Submission email or Blackboard upload receipt
+![CV Submission Confirmation Screenshot](https://github.com/boity0/github_portfolio/blob/main/CV%20evidence.png)
 
 ### ✍️ Reflection (STAR)
 **S**ituation: Final step was to submit the CV.  
